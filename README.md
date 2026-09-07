@@ -52,4 +52,5 @@ Antigravity CLI shares the same agent harness as Antigravity 2.0 and supports Ag
 
 ## Utilities
 
+- [antigravity-skill-porter](https://github.com/Pranav-Nexus/antigravity-skill-porter) - Ingests, translates, and optimizes agent skills from Claude Code and Cursor into native Antigravity plugins with parallel subagents.
 - [antigravity-cli-statusline](https://github.com/AndyAWD/antigravity-cli-statusline) - Cross-platform statusline skill showing API quota, token usage, Git branch, and system resources.
