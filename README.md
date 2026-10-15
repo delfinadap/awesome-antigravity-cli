@@ -52,4 +52,6 @@ Antigravity CLI shares the same agent harness as Antigravity 2.0 and supports Ag
 
 ## Utilities
 
+- [agy-powerline](https://github.com/wassim-azi/agy-powerline) - Fast, configurable statusline for Antigravity CLI showing model, Gemini 5h/7d quotas, context, git, and an interactive configurator.
 - [antigravity-cli-statusline](https://github.com/AndyAWD/antigravity-cli-statusline) - Cross-platform statusline skill showing API quota, token usage, Git branch, and system resources.
+
