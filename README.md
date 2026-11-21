@@ -53,3 +53,4 @@ Antigravity CLI shares the same agent harness as Antigravity 2.0 and supports Ag
 ## Utilities
 
 - [antigravity-cli-statusline](https://github.com/AndyAWD/antigravity-cli-statusline) - Cross-platform statusline skill showing API quota, token usage, Git branch, and system resources.
+- [chat_tokens](https://github.com/vladsboev-web/chat_tokens) - Zero-dependency Antigravity plugin combining a live Context Monitor Sidecar panel and an instant 0-token `/ctx` PreInvocation hook reading local `transcript.jsonl`.
