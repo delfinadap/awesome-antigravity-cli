@@ -53,3 +53,4 @@ Antigravity CLI shares the same agent harness as Antigravity 2.0 and supports Ag
 ## Utilities
 
 - [antigravity-cli-statusline](https://github.com/AndyAWD/antigravity-cli-statusline) - Cross-platform statusline skill showing API quota, token usage, Git branch, and system resources.
+- [agy-swap](https://github.com/aklkbqx/agy-swap) - Cross-platform Go TUI and CLI for switching Google Antigravity CLI and IDE accounts, inspecting live per-model quota, and guarding active sessions against background token refreshes ([website](https://agy-swap.aklkbqx.com/)).
