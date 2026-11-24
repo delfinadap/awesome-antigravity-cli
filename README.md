@@ -49,6 +49,7 @@ Antigravity CLI shares the same agent harness as Antigravity 2.0 and supports Ag
 
 - [oh-my-antigravity](https://github.com/Joonghyun-Lee-Frieren/oh-my-antigravity) - Context-engineering-powered multi-agent team workflow pack for Antigravity CLI.
 - [antigravity-cloud-run](https://github.com/ykdojo/antigravity-cloud-run) - Run multiple `agy` sessions in isolated Docker containers, locally or on Cloud Run, managed from a web dashboard.
+- [antigravity-mission-control](https://github.com/todd866/antigravity-mission-control) - Live pictorial Mission Control cockpit (MCP App), cross-Mac `agy-status` and `agy-relay` CLIs, turn-aware briefings, and adaptive Flash/Carbon/Neon `agy` AI Commander.
 
 ## Utilities
 
