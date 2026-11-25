@@ -49,6 +49,7 @@ Antigravity CLI shares the same agent harness as Antigravity 2.0 and supports Ag
 
 - [oh-my-antigravity](https://github.com/Joonghyun-Lee-Frieren/oh-my-antigravity) - Context-engineering-powered multi-agent team workflow pack for Antigravity CLI.
 - [antigravity-cloud-run](https://github.com/ykdojo/antigravity-cloud-run) - Run multiple `agy` sessions in isolated Docker containers, locally or on Cloud Run, managed from a web dashboard.
+- [Multigravity](https://github.com/GHSaiMo/antigravity-mobile) - MIT open-source native iOS (App Store), Android, and Web PWA mobile companion with a local Go gateway (`mgy`) for controlling local Antigravity CLI/IDE sessions remotely, with E2EE relay, lock-screen APNs approvals, Dynamic Island live steps, `/swarm` monitoring, and 5h/7d quota tracking.
 
 ## Utilities
 
